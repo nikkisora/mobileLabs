@@ -1,5 +1,5 @@
 # CDR (Call Detail Record)
-<img src="./img/Capture.png" alt="" width="300"/>
+<img src="./img/Capture.PNG" alt="" width="300"/>
 
 ```
 .
